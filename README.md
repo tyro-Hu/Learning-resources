@@ -17,3 +17,6 @@
 
 ## 多模态
 1. CLIP： B站up主小黑黑讲AI的视频 https://www.bilibili.com/video/BV1p88mzAEPq
+
+## Agent
+1. B站up主：马克的技术工作坊。视频链接：https://www.bilibili.com/video/BV1TSg7zuEqR  视频标题：Agent 的概念、原理与构建模式 —— 从零打造一个简化版的 Claude Code  推荐指数：5星星  理由：详细讲解了Agent的流程，以及举例，并有代码实践。 代码链接：https://github.com/MarkTechStation/VideoCode/tree/main/Agent%E7%9A%84%E6%A6%82%E5%BF%B5%E3%80%81%E5%8E%9F%E7%90%86%E4%B8%8E%E6%9E%84%E5%BB%BA%E6%A8%A1%E5%BC%8F
