@@ -24,6 +24,7 @@
 
 ## MCP
 1. B站up主：马克的技术工作坊。视频链接：https://www.bilibili.com/video/BV1uronYREWR  系列视频：MCP终极指南（三个视频） 推荐指数：5星  理由：从原理到实践再到抓包分析，十分透彻的分析MCP。
+2. B站up主：马克的技术工作坊  视频链接：https://www.bilibili.com/video/BV15YJTzkENC  视频标题：MCP 与 Function Calling 到底什么关系，以及为什么我认为大部分人的观点都是错误的。  推荐指数：5星 
 
 ## python
 1. Python 包管理器 uv 入门教程（来自小菜菜的博客）：https://www.xiaocaicai.com/2025/09/%E5%91%8A%E5%88%AB%E9%BE%9F%E9%80%9F%EF%BC%81%E4%B8%8B%E4%B8%80%E4%BB%A3-python-%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8-uv-%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/
